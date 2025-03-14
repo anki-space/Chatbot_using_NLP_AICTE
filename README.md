@@ -55,6 +55,20 @@ This project is an **intent-based chatbot** that understands and responds to use
  ┣ 📜 feedback.csv      # User feedback storage
  ┣ 📜 README.md         # Project documentation
 ```
+## Screenshots
+
+### 1️⃣ Chatbot Interface
+<img width="955" alt="home" src="https://github.com/user-attachments/assets/8b2ac9f9-b12c-4db2-8805-022c4d7551e2" />
+
+
+### 2️⃣ Conversation History Feature
+<img width="952" alt="history" src="https://github.com/user-attachments/assets/99cb27c5-9c77-464b-acef-092bf8dae159" />
+
+
+### 3️⃣ Feedback System
+<img width="960" alt="feedback" src="https://github.com/user-attachments/assets/b71063a7-45d4-4e21-8790-71ef49ea2ab0" />
+
+
 
 ## 🏗 Installation & Setup
 ### Prerequisites
